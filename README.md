@@ -3,16 +3,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hasith Deminda</h1>
 <h3 align="center">I'm a Software Engineering Undergratuate at SLIIT.</h3>
 
-
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a undergratuate at **[SLIIT](https://www.sliit.lk/)**
+- 🔭 I’m currently an undergratuate at **[SLIIT](https://www.sliit.lk/)**
 
-- 🌱 I’m currently learning 
-   - **Data Structures and Algorithms** 
-   - **MERN Stack Web Development**
-   -  **Mobile Application Development**
-  <br></br>
+- 🌱 I’m currently learning
+  - **Data Structures and Algorithms**
+  - **MERN Stack Web Development**
+  - **Mobile Application Development**
+    <br></br>
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My GitHub profile](https://github.com/HasithDeminda?tab=repositories)**
@@ -30,7 +29,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
     <a style="padding-left:10px; href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a style="padding-left:10px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src=""/> </a> 
@@ -46,10 +45,17 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/HasithDeminda/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hasith Deminda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HasithDeminda&theme=chartreuse-dark&stroke=FF0000&background=060A0CD0&ring=#00FF00&currStreakLabel=00FF00"/>
     </a>
+</p> -->
+<p align="center">
+<a href="https://github.com/HasithDeminda/github-readme-streak-stats">
+
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hasith Deminda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HasithDeminda&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD0&ring=00FF00&currStreakLabel=00FF00"/>
+    </a>
+
 </p>
 
 ## 📊 My Github Stats
@@ -60,7 +66,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -70,17 +75,20 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/Hasith-Deminda"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/hasith.deminda.5"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/Hasith_deminda/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
 
 ## ❤ Views and Followers
-<!-- <a href="">
+
+<a href="">
     <img src="https://komarev.com/ghpvc/?username=HasithDeminda&label=PROFILE+VIEWS">
-</a> -->
+</a>
 <a href="https://github.com/HasithDeminda?tab=followers"><img src="https://img.shields.io/github/followers/HasithDeminda?label=Followers&style=social" alt="GitHub Badge"></a>
