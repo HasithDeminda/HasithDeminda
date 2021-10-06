@@ -54,7 +54,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/HasithDeminda/github-readme-stats"><img alt="Hasith Deinda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HasithDeminda&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/HasithDeminda/github-readme-stats"><img alt="Hasith Deminda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HasithDeminda&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/HasithDeminda/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasithDeminda&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/HasithDeminda/github-readme-activity-graph"><img alt="Hasith deminda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HasithDeminda&theme=chartreuse-dark&bg_color=0D1117&hide_border=true" /></a>
+<a href="https://github.com/HasithDeminda/github-readme-activity-graph"><img alt="Hasith Deminda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HasithDeminda&theme=chartreuse-dark&bg_color=0D1117&hide_border=true" /></a>
 
 <br/>
 <br/>
