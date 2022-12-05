@@ -5,11 +5,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently an undergraduate at **[SLIIT](https://www.sliit.lk/)**
+- 🔭 Associate Project Manager at **[Syntax Genie (Pvt) Ltd](https://syntaxgenie.com/)**
 
-- 🌱 I’m currently learning
+- 🔭 Software Engineering undergraduate at **[SLIIT](https://www.sliit.lk/)**
+
+- 🌱 I’m currently following
+  - **Project Management methodologies**
   - **Data Structures and Algorithms**
-  - **MERN Stack Web Development**
+  - **Full Stack Web Development**
   - **Mobile Application Development**
     <br></br>
 - 👯 I’m looking to collaborate on **OpenSource Projects**
