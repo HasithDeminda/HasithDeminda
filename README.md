@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at **[My GitHub profile](https://github.com/HasithDeminda?tab=repositories)**
 
-- 📫 How to reach me **demindahasith@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/hasith-deminda/**
 
 - ⚡ Fun fact **I'm a Movie Freak!**
 
