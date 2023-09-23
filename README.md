@@ -10,12 +10,12 @@
 - 🔭 Software Engineering undergraduate at **[SLIIT](https://www.sliit.lk/)**
 
 - 🌱 I’m currently following
-  - **Project Management methodologies**
-  - **Data Structures and Algorithms**
+  - **Project Management Methodologies**
+  - **Scrum Framework**
   - **Full Stack Web Development**
   - **Mobile Application Development**
     <br></br>
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects & PM Stuff**
 
 - 👨‍💻 All of my projects are available at **[My GitHub profile](https://github.com/HasithDeminda?tab=repositories)**
 
