@@ -1,13 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hasith Deminda</h1>
-<h3 align="center">Associate Project Manager | Frontend Developer | SE Undergraduate 🎓</h3>
+<h3 align="center">Project Manager | Scrum Master | Frontend Developer </h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Associate Project Manager at **[Syntax Genie (Pvt) Ltd](https://syntaxgenie.com/)**
+- 🔭 Project Manager at **[Arimac Lanka (Pvt) Ltd](https://arimaclanka.com/)**
+  
+- 🔭 Project Manager at **[Syntax Genie (Pvt) Ltd](https://syntaxgenie.com/)**
 
-- 🔭 Software Engineering undergraduate at **[SLIIT](https://www.sliit.lk/)**
+- 🔭 Studied BSc (Hons) in IT specialized in Software Engineering at **[SLIIT](https://www.sliit.lk/)**
 
 - 🌱 I’m currently following
   - **Project Management Methodologies**
